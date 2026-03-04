@@ -1,12 +1,10 @@
-import './App.css'
-
-
+import EstadoSuscripcion from "./components/EstadoSuscripcion/EstadoSuscripcion"
 
 function App() {
+
   return (
     <>
-  
-
+      <EstadoSuscripcion />
     </>
   )
 }
